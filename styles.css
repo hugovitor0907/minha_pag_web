@@ -1,4 +1,14 @@
 body{
-background: #ccc;
-
-
+background: #272323;}
+#tiulo1{
+text-align:center ;
+font: size 50px; ;
+color: #f1e6e6;}
+.p1{
+text-align: justify;
+font-size: 20px;
+color: #fbf3f3;
+#img1{
+display: block;
+margin:0 auto;}
+display: 0 auto ;
