@@ -11,4 +11,24 @@ color: #fbf3f3;
 #img1{
 display: block;
 margin:0 auto;}
-#titulo2
+#titulo2{
+text-align:center ;
+font: size 30px;;
+color: #272323;}
+.ul{
+display:inline-block;
+vertical-align:top;
+width:20%;
+margin-right:15%;
+font: size 20px;}
+#img2{
+width:50%;}
+header{
+text-align: center;
+font: size 50px; ;
+color: #272323;}
+.principal{
+background: #f1e6e6;}
+.beneficios{
+background: #272323;}   
+
